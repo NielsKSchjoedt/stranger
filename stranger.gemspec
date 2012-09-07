@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/stranger.rb",
+    "stranger.gemspec",
     "test/helper.rb",
     "test/test_stranger.rb"
   ]
